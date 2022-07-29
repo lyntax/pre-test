@@ -1,6 +1,6 @@
 // Create Function
-func var($input,$test){
-*|$input.$test|*
+func var(%=input,%=test){
+*|%=input.%=test|*
 }
 
 // Echo 12
