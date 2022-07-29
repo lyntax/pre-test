@@ -1,5 +1,6 @@
 // Add Vars
-var a=20,b=30
+%=a=20=%
+%=b=30=%
 
 // Echo a.b
-=a+b=
+*=a+b=*
