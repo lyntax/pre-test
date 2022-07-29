@@ -1,0 +1,7 @@
+// Create Function
+func var(['input','test']){
+*|$input.$test|*
+}
+
+// Echo 12
+=var([1,2]=
